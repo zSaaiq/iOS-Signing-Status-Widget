@@ -22,10 +22,10 @@ To find your Apple device model identifier, use the app **MacTracker**, availabl
 
 ## Screenshots
 ### Widget Parameter Setup
-![Widget Parameter Setup](./widget_parameter.png)
+![Widget Parameter Setup](./widget_parameter.PNG)
 
 ### Widget View
-![Widget View](./widget_view.png)
+![Widget View](./widget_view.PNG)
 
 ## Example Device Identifiers
 | Device Name       | Identifier  |
