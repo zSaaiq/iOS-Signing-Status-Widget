@@ -21,11 +21,10 @@ To find your Apple device model identifier, use the app **MacTracker**, availabl
 3. The widget will display the latest firmware status for your device.
 
 ## Screenshots
-### Widget Parameter Setup
-![Widget Parameter Setup](./widget_parameter.PNG)
-
-### Widget View
-![Widget View](./widget_view.PNG)
+<p align="center">
+  <img src="./widget_parameter.PNG" alt="Widget Parameter Setup" width="300">
+  <img src="./widget_view.PNG" alt="Widget View" width="300">
+</p>
 
 ## Example Device Identifiers
 | Device Name       | Identifier  |
