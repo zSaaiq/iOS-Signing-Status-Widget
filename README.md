@@ -7,6 +7,12 @@ This **Scriptable** widget allows you to check the firmware signing status of yo
 - Supports various Apple devices, including iPhones, iPads, and Apple TVs.
 - Customizable device selection using **Widget Parameter**.
 
+## Screenshots
+<p align="center">
+  <img src="./widget_parameter.PNG" alt="Widget Parameter Setup" width="300">
+  <img src="./widget_view.PNG" alt="Widget View" width="300">
+</p>
+
 ## Installation
 1. Download and install **Scriptable** from the [App Store](https://apps.apple.com/de/app/scriptable/id1405459188).
 2. Copy and paste the script into a new Scriptable script.
@@ -19,12 +25,6 @@ To find your Apple device model identifier, use the app **MacTracker**, availabl
 1. Add a new **Scriptable widget** to your home screen.
 2. Set the **Widget Parameter** to your device model identifier (e.g., `iPhone14,3` for iPhone 13 Pro Max).
 3. The widget will display the latest firmware status for your device.
-
-## Screenshots
-<p align="center">
-  <img src="./widget_parameter.PNG" alt="Widget Parameter Setup" width="300">
-  <img src="./widget_view.PNG" alt="Widget View" width="300">
-</p>
 
 ## Example Device Identifiers
 | Device Name       | Identifier  |
