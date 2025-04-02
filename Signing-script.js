@@ -1,4 +1,4 @@
-// define your device here
+// define your devices here
 const devices = {
     "iPad mini 6": "iPad14,1",
     "iPhone 13 Pro Max": "iPhone14,3",
@@ -8,7 +8,7 @@ const devices = {
 };
 
 const device = args.widgetParameter || "iPhone14,3";
-const deviceName = Object.keys(devices).find(key => devices[key] === device) || "Unbekannt";
+const deviceName = Object.keys(devices).find(key => devices[key] === device) || "unknown";
 
 // API-URL
 const url = `https://api.ipsw.me/v4/device/${encodeURIComponent(device)}?type=ipsw`;
